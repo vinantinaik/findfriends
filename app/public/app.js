@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $("#submit").on("click", function () {
 
-        event.preventDefault();
+        //event.preventDefault();
 
         var scores = [];
         scores.push($("#q1").val().trim());
