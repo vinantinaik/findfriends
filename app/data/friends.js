@@ -15,8 +15,8 @@ module.exports= friends = [{
     ]
 },
 {
-    "name": "Steve",
-    "photo": "http://www.designskilz.com/random-users/images/imageM13.jpg",
+    "name": "Emily",
+    "photo": "http://www.designskilz.com/random-users/images/imageF1.jpg",
     "scores": [
         3,
         2,
@@ -32,7 +32,7 @@ module.exports= friends = [{
 },
 {
     "name": "Bill",
-    "photo": "http://www.designskilz.com/random-users/images/imageM13.jpg",
+    "photo": "http://www.designskilz.com/random-users/images/imageM1.jpg",
     "scores": [
         3,
         2,
@@ -62,5 +62,22 @@ module.exports= friends = [{
         5
     ]
 },
+{
+    "name": "Mayur",
+    "photo": "http://www.designskilz.com/random-users/images/imageM7.jpg",
+    "scores": [
+        5,
+        1,
+        5,
+        1,
+        5,
+        1,
+        5,
+        1,
+        5,
+        1
+    ]
+}
+
 ];
   
